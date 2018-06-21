@@ -1,0 +1,1743 @@
+
+============================== Monitor Output ==============================
+Time : 0:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.4 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.7 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.10 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.13 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.1 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 48.5
+The maximum size of a waiting queue: 96
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 75.0
+The maximum size of a waiting queue: 126
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 53.0
+The maximum size of a waiting queue: 53
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 48.0
+The maximum size of a waiting queue: 95
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 76.0
+The maximum size of a waiting queue: 123
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 71.0
+The maximum size of a waiting queue: 71
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 51.5
+The maximum size of a waiting queue: 102
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 69.0
+The maximum size of a waiting queue: 117
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 62.0
+The maximum size of a waiting queue: 62
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 46.5
+The maximum size of a waiting queue: 92
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 61.5
+The maximum size of a waiting queue: 96
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 63.0
+The maximum size of a waiting queue: 63
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 39.0
+The maximum size of a waiting queue: 77
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 71.5
+The maximum size of a waiting queue: 126
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 76.0
+The maximum size of a waiting queue: 76
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    022     092     093     041     085     077     029     081     092     033     058     077     039     090     089     022
+
+Bus 000    |       |       |       |      STP      |       |       |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |      STP      |       |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |       |      STP      |       |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |       |       |       |       |       |      STP      |       | 
+Bus 004    |      STP      |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 1:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.6 station to No.7 station.
+After 32.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.9 station to No.10 station.
+After 32.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.12 station to No.13 station.
+After 32.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.0 station to No.1 station.
+After 32.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.3 station to No.4 station.
+After 32.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 73.0
+The maximum size of a waiting queue: 122
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 75.0
+The maximum size of a waiting queue: 126
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 100.5
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 77.667
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 76.0
+The maximum size of a waiting queue: 123
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 94.5
+The maximum size of a waiting queue: 118
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 75.333
+The maximum size of a waiting queue: 123
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 69.0
+The maximum size of a waiting queue: 117
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 97.0
+The maximum size of a waiting queue: 132
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 74.333
+The maximum size of a waiting queue: 130
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 61.5
+The maximum size of a waiting queue: 96
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 87.0
+The maximum size of a waiting queue: 111
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 74.333
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 71.5
+The maximum size of a waiting queue: 126
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 103.0
+The maximum size of a waiting queue: 130
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    027     138     054     013     147     078     022     144     077     027     154     081     017     126     074     027
+
+Bus 000    |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       | 
+Bus 003    |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 1:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.9 station to No.10 station.
+After 202.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.12 station to No.13 station.
+After 202.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.0 station to No.1 station.
+After 202.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.3 station to No.4 station.
+After 202.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.6 station to No.7 station.
+After 202.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 92.5
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 96.333
+The maximum size of a waiting queue: 139
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 104.333
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 84.25
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 100.0
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 109.0
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 91.0
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 95.667
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 105.333
+The maximum size of a waiting queue: 132
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 89.5
+The maximum size of a waiting queue: 135
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 92.333
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 102.0
+The maximum size of a waiting queue: 132
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 89.25
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 90.0
+The maximum size of a waiting queue: 127
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 110.667
+The maximum size of a waiting queue: 130
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    006     121     076     018     130     057     010     130     072     009     112     058     011     124     064     006
+
+Bus 000    |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       | 
+Bus 002    |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 2:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.12 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.0 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.3 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.6 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.9 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 100.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 106.5
+The maximum size of a waiting queue: 139
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 116.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 101.8
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 110.25
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 113.5
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 104.4
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 110.25
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 119.25
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 101.8
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 100.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 111.25
+The maximum size of a waiting queue: 139
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 96.0
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 101.75
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 116.5
+The maximum size of a waiting queue: 134
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    027     105     043     071     081     053     051     111     039     047     102     058     025     096     043     027
+
+Bus 000    |       |       |       |       |       |       |       |       |       |       |       |      STP      |       |       | 
+Bus 001   STP      |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 002    |       |       |      STP      |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |       |      STP      |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |       |      STP      |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 2:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.0 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.3 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.6 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.9 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.12 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 106.167
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 113.2
+The maximum size of a waiting queue: 140
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 121.2
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 107.0
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 112.6
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 118.2
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 109.167
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 116.4
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 125.2
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 105.333
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 111.0
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 118.8
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 103.167
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 109.0
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 120.6
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    134     088     029     130     081     033     128     092     020     119     073     029     135     082     030     134
+
+Bus 000   STP      |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |      STP      |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |      STP      |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |       |      STP      |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |       |       |       |       |      STP      |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 3:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.2 station to No.3 station.
+After 124.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.5 station to No.6 station.
+After 124.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.8 station to No.9 station.
+After 124.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.11 station to No.12 station.
+After 124.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.14 station to No.0 station.
+After 124.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 106.167
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 118.0
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 121.167
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 107.0
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 116.0
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 120.167
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 109.167
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 121.0
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 126.667
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 105.333
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 113.833
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 122.333
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 103.167
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 114.0
+The maximum size of a waiting queue: 139
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 122.167
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    111     063     018     115     059     017     129     065     009     114     066     012     120     071     012     111
+
+Bus 000    |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 3:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.5 station to No.6 station.
+After 206.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.8 station to No.9 station.
+After 206.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.11 station to No.12 station.
+After 206.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.14 station to No.0 station.
+After 206.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.2 station to No.3 station.
+After 206.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 108.286
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 119.143
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 123.429
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 110.429
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 117.571
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 122.429
+The maximum size of a waiting queue: 138
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 113.571
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 122.0
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 126.857
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 107.714
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 115.857
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 123.857
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 107.571
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 115.143
+The maximum size of a waiting queue: 139
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 123.143
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    122     060     011     110     062     007     113     070     009     128     065     004     120     072     012     122
+
+Bus 000    |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  | 
+Bus 004    |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 4:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.8 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.11 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.14 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.2 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.5 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 111.625
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 120.375
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 127.0
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 112.75
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 120.0
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 124.875
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 115.5
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 124.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 128.625
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 112.625
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 117.875
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 125.125
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 111.125
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 118.75
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 124.0
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    113     059     040     115     053     035     094     043     025     115     046     026     102     045     016     113
+
+Bus 000    |       |       |       |       |       |       |       |      STP      |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |       |       |      STP      |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |       |       |       |       |       |      STP      | 
+Bus 003    |       |      STP      |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |      STP      |       |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 4:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.11 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.14 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.2 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.5 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.8 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 115.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 120.778
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 127.667
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 117.222
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 120.778
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 129.0
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 115.333
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 126.0
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 127.0
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 115.333
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 119.222
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 126.333
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 113.222
+The maximum size of a waiting queue: 145
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 120.667
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 124.0
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    094     030     086     090     028     116     097     029     074     094     020     102     093     032     083     094
+
+Bus 000    |       |       |       |       |       |       |       |       |       |       |      STP      |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |       |       |       |       |       |      STP      | 
+Bus 002    |       |      STP      |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |      STP      |       |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |      STP      |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 5:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.13 station to No.14 station.
+After 140.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.1 station to No.2 station.
+After 140.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.4 station to No.5 station.
+After 140.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.7 station to No.8 station.
+After 140.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.10 station to No.11 station.
+After 140.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 118.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 122.8
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 127.667
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 119.3
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 121.3
+The maximum size of a waiting queue: 148
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 129.0
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 118.5
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 127.3
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 127.0
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 117.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 119.6
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 126.333
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 118.9
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 123.3
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 124.0
+The maximum size of a waiting queue: 137
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    070     007     126     060     016     112     076     012     133     087     019     117     064     012     134     070
+
+Bus 000    |       |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       | 
+Bus 001    |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 5:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.1 station to No.2 station.
+After 302.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.4 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.7 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.10 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.13 station to No.14 station.
+After 302.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 119.091
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 123.727
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 128.7
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 119.545
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 124.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 128.6
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 119.182
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 129.182
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 129.0
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 120.364
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 121.545
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 126.8
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 119.727
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 124.091
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 126.0
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    056     000     116     061     014     129     061     001     095     063     001     121     045     001     107     056
+
+Bus 000    |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |      STP      |       |       |       |       |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |      STP      |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |       |       |      STP      |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 6:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.4 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.7 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.10 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.13 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.1 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 121.333
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 125.0
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 130.727
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 122.083
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 124.167
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 130.273
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 121.0
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 129.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 128.091
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 121.667
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 122.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 128.364
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 119.5
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 125.25
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 126.0
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    045     077     083     024     070     103     035     077     095     035     076     092     043     081     089     045
+
+Bus 000    |       |       |       |      STP      |       |       |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |      STP      |       |       |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |       |      STP      |       |       |       |       | 
+Bus 003    |       |       |       |       |       |       |       |       |       |       |       |       |      STP      |       | 
+Bus 004    |      STP      |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 6:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.6 station to No.7 station.
+After 22.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.9 station to No.10 station.
+After 22.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.12 station to No.13 station.
+After 22.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.0 station to No.1 station.
+After 22.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.3 station to No.4 station.
+After 22.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 122.538
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 125.0
+The maximum size of a waiting queue: 142
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 131.417
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 122.154
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 124.167
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 130.5
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 122.0
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 129.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 128.333
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 123.0
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 122.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 128.417
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 122.692
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 125.25
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 126.75
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    022     155     093     021     133     095     028     144     079     026     130     091     024     132     068     022
+
+Bus 000    |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       | 
+Bus 002    |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       | 
+Bus 003    |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 7:0:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is driving from No.9 station to No.10 station.
+After 248.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.1 bus
+Bus is driving from No.12 station to No.13 station.
+After 248.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.2 bus
+Bus is driving from No.0 station to No.1 station.
+After 248.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.3 bus
+Bus is driving from No.3 station to No.4 station.
+After 248.0 seconds the bus will arrive next station.
+--------------------------------------------------
+No.4 bus
+Bus is driving from No.6 station to No.7 station.
+After 248.0 seconds the bus will arrive next station.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 123.643
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 127.308
+The maximum size of a waiting queue: 155
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 132.077
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 123.0
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 125.0
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 132.308
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 122.286
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 130.846
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 128.692
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 125.214
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 123.385
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 129.231
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 123.714
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 125.846
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 125.769
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    004     126     060     013     124     050     007     130     060     002     111     081     015     118     068     004
+
+Bus 000    |       |       |       |       |       |       |       |       |       |  ==>  |       |       |       |       |       | 
+Bus 001    |       |       |       |       |       |       |       |       |       |       |       |       |  ==>  |       |       | 
+Bus 002    |  ==>  |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |  ==>  |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |  ==>  |       |       |       |       |       |       |       |       | 
+======================================================================
+
+
+============================== Monitor Output ==============================
+Time : 7:30:0.0  day 0
+==================== Bus ====================
+No.0 bus
+Bus is stop at No.12 station.
+People is boarding the bus.
+--------------------------------------------------
+No.1 bus
+Bus is stop at No.0 station.
+People is boarding the bus.
+--------------------------------------------------
+No.2 bus
+Bus is stop at No.3 station.
+People is boarding the bus.
+--------------------------------------------------
+No.3 bus
+Bus is stop at No.6 station.
+People is boarding the bus.
+--------------------------------------------------
+No.4 bus
+Bus is stop at No.9 station.
+People is boarding the bus.
+--------------------------------------------------
+==================== Station ====================
+No.0 station
+The average size of a waiting queue: 124.467
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 128.571
+The maximum size of a waiting queue: 155
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 132.571
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 124.4
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 126.214
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 132.357
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 123.733
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 132.571
+The maximum size of a waiting queue: 155
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 128.429
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 125.4
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 124.143
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 130.143
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 125.067
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 126.714
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 126.571
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+==================== Graphic ====================
+Station   000-----001-----002-----003-----004-----005-----006-----007-----008-----009-----010-----011-----012-----013-----014-----000
+People    025     106     044     046     091     046     041     103     041     023     106     053     044     112     038     025
+
+Bus 000    |       |       |       |       |       |       |       |       |       |       |       |      STP      |       |       | 
+Bus 001   STP      |       |       |       |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 002    |       |       |      STP      |       |       |       |       |       |       |       |       |       |       |       | 
+Bus 003    |       |       |       |       |       |      STP      |       |       |       |       |       |       |       |       | 
+Bus 004    |       |       |       |       |       |       |       |       |      STP      |       |       |       |       |       | 
+======================================================================
+
+
+============================== Simulation Complete ==============================
+No.0 station
+The average size of a waiting queue: 123.75
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.1 station
+The average size of a waiting queue: 129.867
+The maximum size of a waiting queue: 155
+The minimum size of a waiting queue: 24
+--------------------------------------------------
+No.2 station
+The average size of a waiting queue: 133.133
+The maximum size of a waiting queue: 152
+The minimum size of a waiting queue: 53
+--------------------------------------------------
+No.3 station
+The average size of a waiting queue: 125.0
+The maximum size of a waiting queue: 172
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.4 station
+The average size of a waiting queue: 126.067
+The maximum size of a waiting queue: 151
+The minimum size of a waiting queue: 29
+--------------------------------------------------
+No.5 station
+The average size of a waiting queue: 131.333
+The maximum size of a waiting queue: 162
+The minimum size of a waiting queue: 71
+--------------------------------------------------
+No.6 station
+The average size of a waiting queue: 124.563
+The maximum size of a waiting queue: 158
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.7 station
+The average size of a waiting queue: 132.667
+The maximum size of a waiting queue: 155
+The minimum size of a waiting queue: 21
+--------------------------------------------------
+No.8 station
+The average size of a waiting queue: 128.4
+The maximum size of a waiting queue: 161
+The minimum size of a waiting queue: 62
+--------------------------------------------------
+No.9 station
+The average size of a waiting queue: 125.75
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.10 station
+The average size of a waiting queue: 125.733
+The maximum size of a waiting queue: 154
+The minimum size of a waiting queue: 27
+--------------------------------------------------
+No.11 station
+The average size of a waiting queue: 130.8
+The maximum size of a waiting queue: 149
+The minimum size of a waiting queue: 63
+--------------------------------------------------
+No.12 station
+The average size of a waiting queue: 126.25
+The maximum size of a waiting queue: 170
+The minimum size of a waiting queue: 1
+--------------------------------------------------
+No.13 station
+The average size of a waiting queue: 128.0
+The maximum size of a waiting queue: 147
+The minimum size of a waiting queue: 17
+--------------------------------------------------
+No.14 station
+The average size of a waiting queue: 125.467
+The maximum size of a waiting queue: 144
+The minimum size of a waiting queue: 76
+--------------------------------------------------
+======================================================================
